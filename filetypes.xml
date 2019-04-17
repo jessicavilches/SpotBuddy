@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="login_page" type="Dart" />
       <mapping pattern="login_page.dart" type="Dart" />
+      <mapping pattern="assets" type="Image" />
       <mapping pattern="home_page.dart" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
